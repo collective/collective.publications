@@ -31,6 +31,7 @@ People
 ------
 
 - Emmanuelle HELLY <emmanuelle.helly@makina-corpus.com>
+- kiorky <kiorky@cryptelium.net>
 
 Resources
 ---------
